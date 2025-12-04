@@ -1,6 +1,6 @@
 # user-details.yaml
-name: "siddharth"
+name: "sid"
 company: "DailyRounds"
 email: "siddharthhiremath2054@gmail.com" 
 # Change this ID to trigger the next build
-trigger_id: "test-run-01"
+trigger_id: "test-run-02"
