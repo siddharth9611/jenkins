@@ -1,5 +1,5 @@
 # Jenkins configs
 TESTING_XML: "YourCourse(14)"
 is_DEBUG: "true"
-DEVICE_MODEL: "Galaxy tab A9+" 
+DEVICE_MODEL: "Samsung A71" 
 Email_TO: "sarangi@dailyRounds.org"
