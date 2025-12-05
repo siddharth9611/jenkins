@@ -1,5 +1,5 @@
 # Jenkins configs
-TESTING_XML: "YourCourse(14)"
-is_DEBUG: "true"
+TESTING_XML: "KYC(3)"
+is_DEBUG: "false"
 DEVICE_MODEL: "Samsung A71" 
 Email_TO: "sarangi@dailyRounds.org"
